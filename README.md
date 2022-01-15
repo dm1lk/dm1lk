@@ -1,10 +1,12 @@
 # 👋 Hey, I'm James!
 A student developer from Northern Ireland, here is some stuff I'm currently working on:
 ```
-🍍 Pineapples
+🍍 PineapplesJS
 - A general purpose discord bot, designed to be user friendly and easy to use.
 ❤️ HMP Online
 - A hardcore minecraft SMP with a twist, currently has over 100 members.
+⛄ MariahCareyJs
+- A small fun discord bot to make your discord just like every shopping mall in existance! 
 ```
 All of my other projects can be found at https://www.dm1lk.xyz/projects 😊
 
