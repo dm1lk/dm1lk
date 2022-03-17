@@ -1,7 +1,7 @@
 # 👋 Hey, I'm James!
 A student developer from Northern Ireland, here is some stuff I'm currently working on:
 ```
-🍍 PineapplesJS
+🍍 PineapplesJS (Currently Privated)
 - A general purpose discord bot, designed to be user friendly and easy to use.
 ❤️ HMP Online
 - A hardcore minecraft SMP with a twist, currently has over 100 members.
